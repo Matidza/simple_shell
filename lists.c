@@ -1,7 +1,4 @@
 #include "shell.h"
-#include <cstddef>
-#include "../Alx-low_level_programming/0x12-singly_linked_lists/lists.h"
-
 /**
  * add_node - adds a node to the start of the list
  * @head: address of pointer to head node
