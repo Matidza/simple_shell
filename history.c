@@ -1,4 +1,5 @@
 #include "shell.h"
+#include "lists.h"
 #include "../Alx-low_level_programming/0x12-singly_linked_lists/lists.h"
 /**
  * get_history_file - gets the history file
