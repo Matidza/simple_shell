@@ -1,6 +1,5 @@
 #include "shell.h"
-#include "lists.h"
-#include "capita/lists.h"
+
 
 /**
  * get_history_file - gets the history file
